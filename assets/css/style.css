@@ -1,0 +1,66 @@
+body{
+background-image: url("../images/greywall.png");
+background-color: #cccccc;
+}
+
+p {
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.crystalsHeader {
+	color: white;
+	background-color: #2ba194;
+	width: 200px;
+	padding: 20px;
+	margin-top: 15px;
+	margin-left: 15px;
+
+}
+
+.instructions {
+	color: white;
+	background-color:#2ba194;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#randomNumberDisplay {
+	background-color:#2ba194;
+	font-size: 45px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+.winLose{
+	background-color:#2ba194;
+	margin-top: 15px;
+}
+
+.crystal {
+	height:150px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border: solid 2px
+}
+
+#totalTitle {
+	color:white;
+	background-color:#2ba194;
+	width: 250px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#totalScore {
+	color: white;
+	background-color:#2ba194;
+	width: 250px;
+	font-size:45px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#jones {
+	width: 60%;
+}
