@@ -20,20 +20,20 @@ p {
 
 .instructions {
 	color: white;
-	background-color:#2ba194;
+	background-color: #2ba194;
 	margin-top: 15px;
 	margin-left: 15px;
 }
 
 #randomNumberDisplay {
-	background-color:#2ba194;
+	background-color: #2ba194;
 	font-size: 45px;
 	margin-top: 15px;
 	margin-left: 15px;
 }
 
 .winLose{
-	background-color:#2ba194;
+	background-color: #2ba194;
 	margin-top: 15px;
 }
 
@@ -41,12 +41,12 @@ p {
 	height:150px;
 	margin-top: 15px;
 	margin-left: 15px;
-	border: solid 2px
+	border: solid 2px #2ba194;
 }
 
 #totalTitle {
 	color:white;
-	background-color:#2ba194;
+	background-color: #2ba194;
 	width: 250px;
 	margin-top: 15px;
 	margin-left: 15px;
@@ -54,7 +54,7 @@ p {
 
 #totalScore {
 	color: white;
-	background-color:#2ba194;
+	background-color: #2ba194;
 	width: 250px;
 	font-size:45px;
 	margin-top: 15px;
@@ -62,5 +62,6 @@ p {
 }
 
 #jones {
-	width: 60%;
+	width: 50%;
+	border: solid 2px #2ba194;
 }
